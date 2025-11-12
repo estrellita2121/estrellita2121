@@ -2,6 +2,7 @@
 
 <!--
 **estrellita2121/estrellita2121** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img width="1080" height="2400" alt="Screenshot_20251112-014820" src="https://github.com/user-attachments/assets/48f5fe72-fa95-4be5-8e9f-cd78fed96481" />
 
 Here are some ideas to get you started:
 
